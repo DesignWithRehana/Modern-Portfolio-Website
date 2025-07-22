@@ -9,7 +9,7 @@ This is a responsive portfolio website project built using HTML, CSS, and JavaSc
 
 ## 🔗 Live Demo
 
-👉 [Visit Portfolio](https://designwithrehana.github.io/Responsive-portfolio/)
+👉 [Visit Portfolio](https://designwithrehana.github.io/Modern-Portfolio-Website/)
 
 ---
 
